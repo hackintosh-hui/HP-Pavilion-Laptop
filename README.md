@@ -1,6 +1,6 @@
 # HP-Pavilion-Laptop
 
-mac 版本 1.14.6. 所有功能正常使用
+mac 版本 Mojave 1.14.6. 所有功能正常使用
 
 HP Pavilion Laptop 14-ce0xxx EFI
 	
